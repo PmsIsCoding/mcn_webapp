@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "title": "La Joconde",
+    "artist": "Léonard de Vinci",
+    "year": 1503,
+    "description": "Portrait emblématique de Mona Lisa.",
+    "image": "/assets/joconde.jpg",
+    "audio": "/assets/joconde.mp3",
+    "video": "/assets/joconde.mp4"
+  },
+  {
+    "id": "2",
+    "title": "Le Cri",
+    "artist": "Edvard Munch",
+    "year": 1893,
+    "description": "Expression du désespoir humain.",
+    "image": "/assets/lecri.jpg",
+    "audio": "/assets/lecri.mp3",
+    "video": "/assets/lecri.mp4"
+  },
+  {
+    "id": "3",
+    "title": "La Nuit étoilée",
+    "artist": "Vincent van Gogh",
+    "year": 1889,
+    "description": "Célèbre ciel nocturne tourbillonnant.",
+    "image": "/assets/nuitetoilee.jpg",
+    "audio": "/assets/nuitetoilee.mp3",
+    "video": "/assets/nuitetoilee.mp4"
+  },
+  {
+    "id": "4",
+    "title": "Guernica",
+    "artist": "Pablo Picasso",
+    "year": 1937,
+    "description": "Dénonciation de la guerre civile espagnole.",
+    "image": "/assets/guernica.jpg",
+    "audio": "/assets/guernica.mp3",
+    "video": "/assets/guernica.mp4"
+  },
+  {
+    "id": "5",
+    "title": "La Jeune Fille à la perle",
+    "artist": "Johannes Vermeer",
+    "year": 1665,
+    "description": "Portrait mystérieux et lumineux.",
+    "image": "/assets/perle.jpg",
+    "audio": "/assets/perle.mp3",
+    "video": "/assets/perle.mp4"
+  },
+  {
+    "id": "6",
+    "title": "Le Baiser",
+    "artist": "Gustav Klimt",
+    "year": 1908,
+    "description": "Icône de l'amour et de la tendresse.",
+    "image": "/assets/baiser.jpg",
+    "audio": "/assets/baiser.mp3",
+    "video": "/assets/baiser.mp4"
+  },
+  {
+    "id": "7",
+    "title": "La Liberté guidant le peuple",
+    "artist": "Eugène Delacroix",
+    "year": 1830,
+    "description": "Allégorie de la liberté et de la révolution.",
+    "image": "/assets/liberte.jpg",
+    "audio": "/assets/liberte.mp3",
+    "video": "/assets/liberte.mp4"
+  },
+  {
+    "id": "8",
+    "title": "Les Nymphéas",
+    "artist": "Claude Monet",
+    "year": 1926,
+    "description": "Série de peintures de nénuphars.",
+    "image": "/assets/nympheas.jpg",
+    "audio": "/assets/nympheas.mp3",
+    "video": "/assets/nympheas.mp4"
+  },
+  {
+    "id": "9",
+    "title": "La Persistance de la mémoire",
+    "artist": "Salvador Dalí",
+    "year": 1931,
+    "description": "Montres molles et surréalisme.",
+    "image": "/assets/memoire.jpg",
+    "audio": "/assets/memoire.mp3",
+    "video": "/assets/memoire.mp4"
+  },
+  {
+    "id": "10",
+    "title": "Le Déjeuner sur l'herbe",
+    "artist": "Édouard Manet",
+    "year": 1863,
+    "description": "Scène de pique-nique controversée.",
+    "image": "/assets/dejeuner.jpg",
+    "audio": "/assets/dejeuner.mp3",
+    "video": "/assets/dejeuner.mp4"
+  }
+]
