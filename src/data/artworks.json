@@ -5,9 +5,10 @@
     "artist": "Léonard de Vinci",
     "year": 1503,
     "description": "Portrait emblématique de Mona Lisa.",
-    "image": "/assets/joconde.jpg",
-    "audio": "/assets/joconde.mp3",
-    "video": "/assets/joconde.mp4"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/400px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
+    "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+    "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "qrCode": "ART001"
   },
   {
     "id": "2",
@@ -15,9 +16,10 @@
     "artist": "Edvard Munch",
     "year": 1893,
     "description": "Expression du désespoir humain.",
-    "image": "/assets/lecri.jpg",
-    "audio": "/assets/lecri.mp3",
-    "video": "/assets/lecri.mp4"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg/400px-Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg",
+    "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+    "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "qrCode": "ART002"
   },
   {
     "id": "3",
@@ -25,9 +27,10 @@
     "artist": "Vincent van Gogh",
     "year": 1889,
     "description": "Célèbre ciel nocturne tourbillonnant.",
-    "image": "/assets/nuitetoilee.jpg",
-    "audio": "/assets/nuitetoilee.mp3",
-    "video": "/assets/nuitetoilee.mp4"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/500px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+    "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+    "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "qrCode": "ART003"
   },
   {
     "id": "4",
@@ -35,9 +38,10 @@
     "artist": "Pablo Picasso",
     "year": 1937,
     "description": "Dénonciation de la guerre civile espagnole.",
-    "image": "/assets/guernica.jpg",
-    "audio": "/assets/guernica.mp3",
-    "video": "/assets/guernica.mp4"
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/PicassoGuernica.jpg/500px-PicassoGuernica.jpg",
+    "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+    "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "qrCode": "ART004"
   },
   {
     "id": "5",
@@ -45,9 +49,10 @@
     "artist": "Johannes Vermeer",
     "year": 1665,
     "description": "Portrait mystérieux et lumineux.",
-    "image": "/assets/perle.jpg",
-    "audio": "/assets/perle.mp3",
-    "video": "/assets/perle.mp4"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/1665_Girl_with_a_Pearl_Earring.jpg/400px-1665_Girl_with_a_Pearl_Earring.jpg",
+    "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+    "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "qrCode": "ART005"
   },
   {
     "id": "6",
@@ -55,9 +60,10 @@
     "artist": "Gustav Klimt",
     "year": 1908,
     "description": "Icône de l'amour et de la tendresse.",
-    "image": "/assets/baiser.jpg",
-    "audio": "/assets/baiser.mp3",
-    "video": "/assets/baiser.mp4"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Gustav_Klimt_016.jpg/400px-Gustav_Klimt_016.jpg",
+    "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+    "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+    "qrCode": "ART006"
   },
   {
     "id": "7",
@@ -65,9 +71,10 @@
     "artist": "Eugène Delacroix",
     "year": 1830,
     "description": "Allégorie de la liberté et de la révolution.",
-    "image": "/assets/liberte.jpg",
-    "audio": "/assets/liberte.mp3",
-    "video": "/assets/liberte.mp4"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Eug%C3%A8ne_Delacroix_-_Le_28_Juillet._La_Libert%C3%A9_guidant_le_peuple.jpg/500px-Eug%C3%A8ne_Delacroix_-_Le_28_Juillet._La_Libert%C3%A9_guidant_le_peuple.jpg",
+    "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+    "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+    "qrCode": "ART007"
   },
   {
     "id": "8",
@@ -75,9 +82,10 @@
     "artist": "Claude Monet",
     "year": 1926,
     "description": "Série de peintures de nénuphars.",
-    "image": "/assets/nympheas.jpg",
-    "audio": "/assets/nympheas.mp3",
-    "video": "/assets/nympheas.mp4"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Claude_Monet_-_Water_Lilies_-_1906%2C_Ryerson.jpg/500px-Claude_Monet_-_Water_Lilies_-_1906%2C_Ryerson.jpg",
+    "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+    "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "qrCode": "ART008"
   },
   {
     "id": "9",
@@ -85,9 +93,10 @@
     "artist": "Salvador Dalí",
     "year": 1931,
     "description": "Montres molles et surréalisme.",
-    "image": "/assets/memoire.jpg",
-    "audio": "/assets/memoire.mp3",
-    "video": "/assets/memoire.mp4"
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/The_Persistence_of_Memory.jpg/400px-The_Persistence_of_Memory.jpg",
+    "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+    "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
+    "qrCode": "ART009"
   },
   {
     "id": "10",
@@ -95,8 +104,9 @@
     "artist": "Édouard Manet",
     "year": 1863,
     "description": "Scène de pique-nique controversée.",
-    "image": "/assets/dejeuner.jpg",
-    "audio": "/assets/dejeuner.mp3",
-    "video": "/assets/dejeuner.mp4"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg/500px-Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg",
+    "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+    "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "qrCode": "ART010"
   }
 ]
